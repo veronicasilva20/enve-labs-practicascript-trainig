@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+input, button {
+    display: block;
+    margin: 10px auto;
+}
+
+#resultado {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
